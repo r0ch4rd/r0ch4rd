@@ -1,2 +1,6 @@
-I'm r0ch4rd but just call me Roch
-Language: Mainly Lua
+Hi I'm rochard
+Languages:
+Lua
+JavaScript
+C++
+PHP
